@@ -3,12 +3,12 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Luís Henrique Faria <luishenrique@softbox.com.br>",
-  "license": "ISC",
+  "scripts": {},
+  "author": "Luís Henrique Faria <luish.faria@gmail.com>",
+  "license": "MIT",
   "dependencies": {
+    "html": "^1.0.0",
+    "htmltidy": "0.0.6",
     "node-jsx": "^0.13.3",
     "react": "^15.3.2",
     "react-dom": "^15.3.2"
